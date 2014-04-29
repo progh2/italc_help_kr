@@ -207,12 +207,37 @@ control userpasswords2
 ![loginsucc](./images/first.jpg)
 
 ### 3.2 강의실, 컴퓨터 등록하기
+![iTALC설정](./images/cr.jpg)
+
 #### 3.2.1 강의실 등록하기
+![iTALC설정](./images/cr_acr.jpg)
+
+![iTALC설정](./images/cr_acr2.jpg)
+
 
 #### 3.2.2 컴퓨터 등록하기
+![iTALC설정](./images/cr_acp.jpg)
+
+![iTALC설정](./images/cr_acp2.jpg)
+
+![iTALC설정](./images/cr_acp3.jpg)
 
 ### 3.3 학생컴퓨터 제어 명령
+![iTALC설정](./images/cr_act1.jpg)
 
+![iTALC설정](./images/cr_act2.jpg)
+
+![iTALC설정](./images/cr_group_act.jpg)
+
+### 3.4 기타 메뉴
+#### 3.4.1 iTALC 둘러보기
+![iTALC설정](./images/ov.jpg)
+
+#### 3.4.2 iTALC 스냅샷
+![iTALC설정](./images/ss.jpg)
+
+#### 3.4.3 iTALC 설정
+![iTALC설정](./images/cf.jpg)
 
 ## 4. 버그
 1. 윈도우 계정명이 한글이면 Master 로그인 불가
